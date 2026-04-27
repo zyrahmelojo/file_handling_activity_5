@@ -4,6 +4,7 @@
     <modules>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_1.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_1.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_2.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_2.iml" />
@@ -11,6 +12,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_3.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_3.iml" />
 >>>>>>> a90a30f (Initial Commit of program_exercise_3)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_4.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_4.iml" />
+>>>>>>> 506a905 (Initial Commit of program_exercise_4)
     </modules>
   </component>
 </project>
