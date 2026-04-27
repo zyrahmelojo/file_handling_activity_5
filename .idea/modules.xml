@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_1.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/program_exercise_2.iml" filepath="$PROJECT_DIR$/.idea/program_exercise_2.iml" />
+>>>>>>> 8d71256 (Initial Commit of program_exercise_2)
     </modules>
   </component>
 </project>
